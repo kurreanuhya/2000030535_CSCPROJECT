@@ -1,0 +1,6 @@
+Step1: Sign into your console
+Step2: Now go to the server Amazon S3 and Create 2 buckets
+Step3:Upload the file to be transcoded to the input bucket
+step4:Create a New Pipeline
+Step5:Create New Job and open jobs select the pipeline and search
+Step6:Now you can see the output in S3 bucket.
